@@ -1,0 +1,352 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Dark Sovereign",
+            "price": 295,
+            "description": "A commanding fragrance for those who lead without hesitation. Dark Sovereign opens with bold black pepper and bergamot, revealing a heart of smoky oud and leather, settling into a base of amber and musk.",
+            "shortDescription": "Bold. Commanding. Unforgettable.",
+            "image": "/images/perfume-1.jpg",
+            "category": "Woody",
+            "notes": {
+                "top": [
+                    "Black Pepper",
+                    "Bergamot",
+                    "Cardamom"
+                ],
+                "heart": [
+                    "Oud",
+                    "Leather",
+                    "Rose"
+                ],
+                "base": [
+                    "Amber",
+                    "Musk",
+                    "Sandalwood"
+                ]
+            },
+            "rating": 4.9,
+            "featured": true,
+            "bestseller": true
+        },
+        {
+            "id": 2,
+            "name": "Velvet Obsidian",
+            "price": 345,
+            "description": "Mystery wrapped in elegance. Velvet Obsidian captivates with rich saffron and dark plum, interlaced with velvety iris and intoxicating jasmine, grounded by warm benzoin and vanilla.",
+            "shortDescription": "Mysterious. Elegant. Intoxicating.",
+            "image": "/images/perfume-2.jpg",
+            "category": "Floral",
+            "notes": {
+                "top": [
+                    "Saffron",
+                    "Dark Plum",
+                    "Pink Pepper"
+                ],
+                "heart": [
+                    "Iris",
+                    "Jasmine",
+                    "Osmanthus"
+                ],
+                "base": [
+                    "Benzoin",
+                    "Vanilla",
+                    "White Musk"
+                ]
+            },
+            "rating": 4.8,
+            "featured": true,
+            "bestseller": false
+        },
+        {
+            "id": 3,
+            "name": "Crimson Fury",
+            "price": 275,
+            "description": "Passion ignited. Crimson Fury blazes with fiery cinnamon and red ginger, warmed by spicy clove and nutmeg, resting on a smoldering bed of cedarwood and tobacco.",
+            "shortDescription": "Passionate. Fierce. Unforgettable.",
+            "image": "/images/perfume-3.jpg",
+            "category": "Spicy",
+            "notes": {
+                "top": [
+                    "Cinnamon",
+                    "Red Ginger",
+                    "Blood Orange"
+                ],
+                "heart": [
+                    "Clove",
+                    "Nutmeg",
+                    "Saffron"
+                ],
+                "base": [
+                    "Cedarwood",
+                    "Tobacco",
+                    "Amber"
+                ]
+            },
+            "rating": 4.7,
+            "featured": true,
+            "bestseller": false
+        },
+        {
+            "id": 4,
+            "name": "Arctic Phantom",
+            "price": 265,
+            "description": "Cool confidence personified. Arctic Phantom refreshes with icy mint and ozonic notes, balanced by crisp apple and cucumber, finishing with white cedar and clean musk.",
+            "shortDescription": "Cool. Confident. Refined.",
+            "image": "/images/perfume-4.jpg",
+            "category": "Fresh",
+            "notes": {
+                "top": [
+                    "Icy Mint",
+                    "Ozone",
+                    "Bergamot"
+                ],
+                "heart": [
+                    "Green Apple",
+                    "Cucumber",
+                    "Violet Leaf"
+                ],
+                "base": [
+                    "White Cedar",
+                    "Clean Musk",
+                    "Ambroxan"
+                ]
+            },
+            "rating": 4.6,
+            "featured": false,
+            "bestseller": false
+        },
+        {
+            "id": 5,
+            "name": "Golden Apex",
+            "price": 425,
+            "description": "The pinnacle of luxury. Golden Apex radiates with precious saffron and honeyed neroli, enriched by rare oud and Turkish rose, immortalized in golden amber and precious woods.",
+            "shortDescription": "Luxurious. Radiant. Timeless.",
+            "image": "/images/perfume-5.jpg",
+            "category": "Woody",
+            "notes": {
+                "top": [
+                    "Saffron",
+                    "Neroli",
+                    "Honey"
+                ],
+                "heart": [
+                    "Oud",
+                    "Turkish Rose",
+                    "Jasmine Sambac"
+                ],
+                "base": [
+                    "Golden Amber",
+                    "Precious Woods",
+                    "Musk"
+                ]
+            },
+            "rating": 5.0,
+            "featured": true,
+            "bestseller": true
+        },
+        {
+            "id": 6,
+            "name": "Midnight Rose",
+            "price": 285,
+            "description": "Romance in darkness. Midnight Rose blooms with Bulgarian rose and violet, deepened by dark berries and patchouli, embraced by sensual vanilla and vetiver.",
+            "shortDescription": "Romantic. Dark. Sensual.",
+            "image": "/images/perfume-6.jpg",
+            "category": "Floral",
+            "notes": {
+                "top": [
+                    "Bulgarian Rose",
+                    "Violet",
+                    "Raspberry"
+                ],
+                "heart": [
+                    "Dark Berries",
+                    "Patchouli",
+                    "Geranium"
+                ],
+                "base": [
+                    "Vanilla",
+                    "Vetiver",
+                    "Cashmere Musk"
+                ]
+            },
+            "rating": 4.8,
+            "featured": false,
+            "bestseller": true
+        },
+        {
+            "id": 7,
+            "name": "Savage Ember",
+            "price": 315,
+            "description": "Primal intensity unleashed. Savage Ember ignites with smoky incense and black pepper, fueled by burning woods and labdanum, anchored in raw leather and dark musk.",
+            "shortDescription": "Intense. Primal. Powerful.",
+            "image": "/images/perfume-7.jpg",
+            "category": "Spicy",
+            "notes": {
+                "top": [
+                    "Smoky Incense",
+                    "Black Pepper",
+                    "Elemi"
+                ],
+                "heart": [
+                    "Burning Woods",
+                    "Labdanum",
+                    "Geranium"
+                ],
+                "base": [
+                    "Raw Leather",
+                    "Dark Musk",
+                    "Oud"
+                ]
+            },
+            "rating": 4.7,
+            "featured": false,
+            "bestseller": false
+        },
+        {
+            "id": 8,
+            "name": "Ocean Tempest",
+            "price": 255,
+            "description": "The power of the sea. Ocean Tempest crashes with marine salt and sea spray, blended with aromatic sage and lavender, calmed by driftwood and ambergris.",
+            "shortDescription": "Powerful. Refreshing. Free.",
+            "image": "/images/perfume-8.jpg",
+            "category": "Fresh",
+            "notes": {
+                "top": [
+                    "Marine Salt",
+                    "Sea Spray",
+                    "Lemon Zest"
+                ],
+                "heart": [
+                    "Sage",
+                    "Lavender",
+                    "Seaweed"
+                ],
+                "base": [
+                    "Driftwood",
+                    "Ambergris",
+                    "White Musk"
+                ]
+            },
+            "rating": 4.5,
+            "featured": false,
+            "bestseller": false
+        },
+        {
+            "id": 9,
+            "name": "Shadow King",
+            "price": 365,
+            "description": "Rule from the darkness. Shadow King commands with mysterious labdanum and smoky birch, crowned by royal iris and dark coffee, reigning over a kingdom of oud and amber.",
+            "shortDescription": "Mysterious. Royal. Commanding.",
+            "image": "/images/perfume-9.jpg",
+            "category": "Woody",
+            "notes": {
+                "top": [
+                    "Labdanum",
+                    "Smoky Birch",
+                    "Black Tea"
+                ],
+                "heart": [
+                    "Royal Iris",
+                    "Dark Coffee",
+                    "Cinnamon"
+                ],
+                "base": [
+                    "Oud",
+                    "Amber",
+                    "Benzoin"
+                ]
+            },
+            "rating": 4.9,
+            "featured": true,
+            "bestseller": false
+        },
+        {
+            "id": 10,
+            "name": "Noir Blossom",
+            "price": 295,
+            "description": "Beauty in darkness. Noir Blossom unfolds with night-blooming jasmine and tuberose, darkened by black orchid and ylang-ylang, resting on a bed of dark chocolate and sandalwood.",
+            "shortDescription": "Beautiful. Dark. Enchanting.",
+            "image": "/images/perfume-10.jpg",
+            "category": "Floral",
+            "notes": {
+                "top": [
+                    "Night Jasmine",
+                    "Tuberose",
+                    "Green Notes"
+                ],
+                "heart": [
+                    "Black Orchid",
+                    "Ylang-Ylang",
+                    "Rose Absolute"
+                ],
+                "base": [
+                    "Dark Chocolate",
+                    "Sandalwood",
+                    "Musk"
+                ]
+            },
+            "rating": 4.6,
+            "featured": false,
+            "bestseller": false
+        },
+        {
+            "id": 11,
+            "name": "Inferno",
+            "price": 335,
+            "description": "Hell's most seductive flame. Inferno burns with dragon's blood and chili pepper, smoldering with smoky oud and charred woods, cooled only by mysterious incense and dark vanilla.",
+            "shortDescription": "Seductive. Fiery. Dangerous.",
+            "image": "/images/perfume-11.jpg",
+            "category": "Spicy",
+            "notes": {
+                "top": [
+                    "Dragon's Blood",
+                    "Chili Pepper",
+                    "Pink Pepper"
+                ],
+                "heart": [
+                    "Smoky Oud",
+                    "Charred Woods",
+                    "Saffron"
+                ],
+                "base": [
+                    "Dark Incense",
+                    "Vanilla Noir",
+                    "Leather"
+                ]
+            },
+            "rating": 4.8,
+            "featured": false,
+            "bestseller": true
+        },
+        {
+            "id": 12,
+            "name": "Frost Blade",
+            "price": 245,
+            "description": "Sharp. Clean. Deadly precise. Frost Blade cuts through with frozen juniper and crystalline aldehydes, sharpened by metallic iris and violet, tempered by cool cedar and white amber.",
+            "shortDescription": "Sharp. Clean. Precise.",
+            "image": "/images/perfume-12.jpg",
+            "category": "Fresh",
+            "notes": {
+                "top": [
+                    "Frozen Juniper",
+                    "Aldehydes",
+                    "Grapefruit"
+                ],
+                "heart": [
+                    "Metallic Iris",
+                    "Violet",
+                    "Water Notes"
+                ],
+                "base": [
+                    "Cool Cedar",
+                    "White Amber",
+                    "Musk"
+                ]
+            },
+            "rating": 4.4,
+            "featured": false,
+            "bestseller": false
+        }
+    ]
+}
